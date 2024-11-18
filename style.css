@@ -106,7 +106,7 @@ span {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    background-image: url('/img/bg.jpg');
+    background-image: url('./img/bg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
